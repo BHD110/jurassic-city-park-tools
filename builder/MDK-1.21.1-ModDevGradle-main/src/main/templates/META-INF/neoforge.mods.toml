@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+description='Server-side Jurassic Reborn map construction tools.'
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.262,)"
+ordering="NONE"
+side="SERVER"
+
+[[mods]]
+modId="citytraffic"
+version="1.0.0"
+displayName="Jurassic City Traffic"
+description='Server-side road-following traffic for Immersive Vehicles.'
+[[dependencies.citytraffic]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.262,)"
+ordering="NONE"
+side="SERVER"
+[[dependencies.citytraffic]]
+modId="mts"
+type="required"
+versionRange="[24.0.0,)"
+ordering="AFTER"
+side="SERVER"
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="SERVER"

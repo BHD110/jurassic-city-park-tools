@@ -1,0 +1,81 @@
+# Dependencies and local tooling
+node_modules/
+**/.gradle/
+**/build/
+**/run/
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# Minecraft worlds, saves, backups and runtime state
+backups/
+delivery/
+video/
+exports/
+runtime/server/
+runtime/**/saves/
+runtime/**/world/
+runtime/**/jurassic-city-v2/
+runtime/**/city-life-*/
+runtime/**/city-v2-*/
+runtime/**/vehicle-mod-*/
+runtime/**/tmp-*/
+runtime/**/*.mca
+runtime/**/*.nbt
+runtime/**/*.dat
+runtime/**/*.dat_old
+runtime/**/*.log
+runtime/**/*.pid
+runtime/**/*.lock
+runtime/**/*.jar
+runtime/**/*.zip
+runtime/**/*.png
+runtime/**/*.mp4
+
+# Generated validation data and binary snapshots
+verification/**/*.mca
+verification/**/*.nbt
+verification/**/*.dat
+verification/**/*.json
+verification/**/*.png
+verification/**/*.jpg
+verification/**/*.webp
+verification/*.json
+verification/*/
+map/generated/
+map/**/*.png
+map/**/*.jpg
+map/**/*.webp
+map/references/assets/*
+!map/references/assets/asset-manifest.json
+
+# Downloaded or third-party tools and binaries
+modpack/**/*.jar
+modpack/**/*.zip
+modpack/**/*.png
+!modpack/city-vehicles-resourcepack/**/*.png
+tools/unmined/*
+!tools/unmined/README.md
+!tools/unmined/render-map.ps1
+tools/immersive-vehicles-source/
+tools/city-life-research/
+tools/**/maps/*.jar
+tools/**/vehicles/*.png
+builder/*.zip
+builder/**/README.md
+runtime/dinosaur-audio-stage/
+runtime/*-path.txt
+verification/server-stop-stack.txt
+
+# Local secrets and machine-specific files
+*.local
+*.secret
+*.key
+*.pem
+**/server.properties
+**/rcon-cli.properties
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+scoreboard players set #npc _codex_count 0

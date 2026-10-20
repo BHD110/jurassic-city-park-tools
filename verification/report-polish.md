@@ -1,0 +1,38 @@
+# 补丁与建筑验收
+状态：passed，通过 35，错误 0
+
+- [通过] visitor-room：0,68,460 最终方块 minecraft:air
+- [通过] visitor-entry：0,70,482 最终方块 minecraft:air
+- [通过] hatchery-room：0,69,-470 最终方块 minecraft:air
+- [通过] hatchery-entry：0,67,-449 最终方块 minecraft:air
+- [通过] control-room：0,69,270 最终方块 minecraft:air
+- [通过] control-entry：0,67,291 最终方块 minecraft:air
+- [通过] maintenance-room：500,69,500 最终方块 minecraft:air
+- [通过] maintenance-entry：500,67,521 最终方块 minecraft:air
+- [通过] visitor-fossil：展厅骨架 minecraft:bone_block[axis=z]
+- [通过] visitor-three-thatch-roofs：中央大草顶及左右小草顶均存在
+- [通过] visitor-hall-clearance：化石展厅上方保持挑空
+- [通过] visitor-water-and-vehicles：入口水池、灰红 Jeep 与黄绿 Explorer
+- [通过] visitor-pond-contained：水池四边及角落有连续高出水面的石沿
+- [通过] visitor-side-windows：两翼长墙各有四组内凹窄窗
+- [通过] interior-lighting：游客中心和设施内有实体照明
+- [通过] sign-backing：游客中心、设施和围场牌有背板
+- [通过] gate-lettering：黑底红黄方块字、双柱火炬与敞开的中轴
+- [通过] 1993-city-scale：80 栋低中层主楼与至少 150 栋沿街配楼，无蓝玻璃高塔
+- [通过] tiled-roof-ridge：沿街商铺红瓦从两侧连续收至窄屋脊，无大片平木顶
+- [通过] city-parcels：80 块有铺装与花园的街区地块，宽至少 90 格
+- [通过] building-verification-targets：所有建筑均给出可在生成结果复核的屋顶与墙体坐标
+- [通过] station-controls：乘车命令链、创造和冒险三个按钮
+- [通过] cart-boarding-sequence：清旧空车、召车、乘坐后发车，生成计划不自动放空车
+- [通过] cart-initial-speed：乘客上车后指定向西初速度
+- [通过] mode-switch：两个模式切换命令存在
+- [通过] tunnel-roof：高架隧道有连续顶盖
+- [通过] tunnel-walls：高架隧道有双侧墙体
+- [通过] tunnel-clearance：隧道轨道上方至少三格净空
+- [通过] bridge-pillar：支柱 -350,64,76 连接到高架轨道
+- [通过] dinosaur-spawn-clearance：64 只恐龙出生点；阻挡 0 处
+- [通过] dinosaur-ai：所有恐龙成年且保留 AI
+- [通过] polish-clean-start：先移走样板实体，再清除中心 64..110 层
+- [通过] polish-entity-reset：中心矿车、中心恐龙、八个围场逐区块清理后重放64只
+- [通过] polish-controls：补丁包含完整乘车命令链和操作台
+- [通过] sample-region-rebuild：中心代表位置与 full 最终方块差异 0 处

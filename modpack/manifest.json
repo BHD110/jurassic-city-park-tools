@@ -1,0 +1,100 @@
+{
+  "name": "小蒙 Jurassic Reborn 城市公园",
+  "minecraft": "1.21.1",
+  "loader": "NeoForge",
+  "neoforge": "21.1.262",
+  "runtimeDirectory": "D:/codeSource/product/jev/mindcraft-client/.minecraft/versions/1.21.1-NeoForge",
+  "mods": [
+    {
+      "projectId": "3cnkUCbj",
+      "versionId": "nDHOaIRe",
+      "version": "1.4.2",
+      "file": "mods/jurassicreborn-1.4.2.jar",
+      "sha512": "e88be952ee2c075e4d383282ed65a80b4306a14f77f7bec3e3c7e3a08f1aacc2198e7e8670e53d0445a358304418be8f5e97cbc6ed272637965544919fc46e96",
+      "url": "https://cdn.modrinth.com/data/3cnkUCbj/versions/nDHOaIRe/jurassicreborn-1.4.2.jar",
+      "requiredDependencies": [
+        "8BmcQJ2H",
+        "jJfV67b1"
+      ]
+    },
+    {
+      "projectId": "8BmcQJ2H",
+      "versionId": "Grwn5rUB",
+      "version": "4.9.3",
+      "file": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar"
+    },
+    {
+      "projectId": "jJfV67b1",
+      "versionId": "ZkgKf4xj",
+      "version": "2.7.1",
+      "file": "mods/citadel-2.7.1-1.21.1.jar",
+      "sha512": "e0d1988b9274a43fae5b5c77d022213143d2cb22a8e22caa8e38d13da35d5914cae3c97eefcc1f029afd9481f8db3362bb19ea8bd9ef18b809df15dc37570227",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/ZkgKf4xj/citadel-2.7.1-1.21.1.jar"
+    },
+    {
+      "projectId": "u6dRKJwZ",
+      "versionId": "ufHUqt9b",
+      "version": "19.51.0.418",
+      "side": "client",
+      "file": "mods/jei-1.21.1-neoforge-19.51.0.418.jar",
+      "sha512": "a6ca3abc3080f6f41033a77cb955fefe9f9ebae795c33546227f555b2d31e8d4131cc705126d14a3fbabb31097fc0e876dc0bbeb05ad907a1b796f21e57527bf",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ufHUqt9b/jei-1.21.1-neoforge-19.51.0.418.jar"
+    },
+    {
+      "projectId": "BCzBuhJ5",
+      "versionId": "B9xnlDrC",
+      "version": "24.0.0-1.21.1",
+      "file": "mods/immersive-vehicles-1.21.1-24.0.0.jar",
+      "sha512": "085c23a22e56fa3c2da1219cf6a8f2ff90974ae8fbc07d2efc2d11d258927075c32e2c645911db3055612d28b42556281f6711b6cc2455dc0da3e7371a505efc",
+      "url": "https://cdn.modrinth.com/data/BCzBuhJ5/versions/B9xnlDrC/Immersive%20Vehicles-1.21.1-24.0.0.jar"
+    },
+    {
+      "projectId": "C7TiPPJz",
+      "versionId": "f4rn8RAt",
+      "version": "29",
+      "file": "mods/mts-official-pack-1.21.1-v29.jar",
+      "sha512": "b7c3ced28a8a13a78c0a02a583cb92839b89f0565160fa1ce5943d40efd10c74cb5bee4bc4026cf42e66541320b4e53c360c49087bdab821887dd712a156734e",
+      "url": "https://cdn.modrinth.com/data/C7TiPPJz/versions/f4rn8RAt/MTS%20Official%20Pack-1.21.1-V29.jar"
+    },
+    {
+      "projectId": "dSwcyTFD",
+      "versionId": "JUhUQQEk",
+      "version": "6.0",
+      "file": "mods/blue-seoul-vehicles-v6.0.jar",
+      "sha512": "592e50b521c5aa8dc037f3733404ac70e7ec3aa135d180a2dbd735ab9c57e17259f792b7dd4e236cfe3fd7bb3fff73d897a3b00e7337ebc4d3b57f26b5a4c1c8",
+      "url": "https://cdn.modrinth.com/data/dSwcyTFD/versions/JUhUQQEk/blueseoul_narae_v6.0_1.21.1.jar"
+    },
+    {
+      "projectId": "Epm6R3P2",
+      "versionId": "n727dBI1",
+      "version": "7.15.0",
+      "file": "mods/easy_npc-neoforge-1.21.1-7.15.0.jar",
+      "sha512": "3ada0487b44b38318dd658f8eb722a2ef3e78bfc429ebe1ff38efb5931f5bc6fccf7cc55cf80744564b0ea1ce7097714cbbd20a51fb8245d044dea33c068e366",
+      "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/n727dBI1/easy_npc-neoforge-1.21.1-7.15.0.jar"
+    },
+    {
+      "projectId": "uTGjf7vA",
+      "versionId": "d72ySxEw",
+      "version": "7.15.0",
+      "file": "mods/easy_npc_config_ui-neoforge-1.21.1-7.15.0.jar",
+      "sha512": "678000a9d51dbd9c71f1527752d968b13c86ea3d57386aaa9873875a76312a34f0f494fc64f97b331b16a13dffcc272d0640e9ff3232ca2be94aea339438a9d7",
+      "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/d72ySxEw/easy_npc_config_ui-neoforge-1.21.1-7.15.0.jar"
+    },
+    {
+      "projectId": "lfHFW1mp",
+      "versionId": "CtFE7hwT",
+      "version": "1.21.1-6.0.9+neoforge",
+      "side": "client",
+      "file": "mods/journeymap-neoforge-1.21.1-6.0.9.jar",
+      "sha512": "8900ee4cdb7d1ffb6559decdeec84ad479d04b2e7b01a60be9f6e328809af2bfd7a80077b7da0e49bc96261fe8fe274ba33c62f6c9f65302c783ed823c4ff746",
+      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/CtFE7hwT/journeymap-neoforge-1.21.1-6.0.9.jar"
+    }
+  ],
+  "checks": {
+    "downloadedAt": "2026-10-17",
+    "source": "Modrinth API v2",
+    "hashAlgorithm": "SHA-512"
+  }
+}

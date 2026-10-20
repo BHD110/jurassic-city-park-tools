@@ -1,0 +1,145 @@
+{
+  "checkedAt": "2026-10-17",
+  "importedIntoWorld": 4,
+  "assets": [
+    {
+      "id": "ocean-house-ookrazy8oo",
+      "title": "Ocean House with Full Interior",
+      "creator": "ooKrazy8oo",
+      "sourcePage": "https://abfielder.com/Products/ProductDetails.php?id=3079",
+      "sourceFiles": [
+        {
+          "path": "ocean-house-ookrazy8oo.schem",
+          "format": "Sponge schematic v2",
+          "sha256": "B362E725B9E687B7A7277738BD170583C7C5830977588CD25B891A98E92EB241"
+        },
+        {
+          "path": "ocean-house-ookrazy8oo.litematic",
+          "format": "Litematica",
+          "sha256": "EC9D1B00FEAB79EB74BEBD54669B2688DE2CCE544A3A9D09D8C7C984BCD8563B"
+        }
+      ],
+      "preview": "ocean-house-preview.jpg",
+      "schematic": {
+        "width": 29,
+        "height": 18,
+        "length": 14,
+        "offset": [0, 0, 0],
+        "dataVersion": 3955,
+        "minecraftVersion": "1.21",
+        "paletteStates": 140,
+        "nonVanillaStates": 0,
+        "entities": 0,
+        "blockEntities": 40,
+        "unsafeBlockStates": 0,
+        "blockEntityPolicy": "Import block states only. Do not transfer third-party block entity NBT; leave storage and signs empty unless reviewed."
+      },
+      "visualAssessment": "Grey deep-eave roof, timber upper facade, furnished balcony, water-level stilts and short pier. Preview actually inspected.",
+      "recommendedUse": "Lakeside visitor service hut or small pier building; place at a shoreline with a 29x14 footprint and preserve a few blocks in front for the pier. Adapt materials and signs to the 1993 park.",
+      "status": "imported_into_server_world"
+    },
+    {
+      "id": "fisherman-house-heldorya",
+      "title": "Fisherman House",
+      "creator": "Heldorya Studio",
+      "sourcePage": "https://abfielder.com/Products/ProductDetails.php?id=11656",
+      "sourceFiles": [{
+        "path": "fisherman-house-heldorya.litematic",
+        "format": "Litematica v7",
+        "sha256": "156CF1873340D4B297DC05E33CE67C29502302C3DD05AF4846DE84708094CABA"
+      }],
+      "preview": "fisherman-house-preview.jpg",
+      "schematic": {
+        "regions": 1,
+        "width": 39,
+        "height": 18,
+        "length": 31,
+        "dataVersion": 3955,
+        "paletteStates": 126,
+        "nonAirBlocks": 1274,
+        "candidateImportedBlocks": 1274,
+        "candidateOperations": 863,
+        "serverValidationInvalidStates": 0,
+        "entitiesInSource": 11,
+        "blockEntitiesInSource": 107,
+        "entitiesImported": 0,
+        "blockEntityNbtImported": 0,
+        "unsafeBlockStatesUsed": 0,
+        "blockEntityPolicy": "Import block states only. Signs are blank and containers empty; omit all 11 source entities and 107 source block entity NBT records."
+      },
+      "visualAssessment": "Blue-green waterfront house, timber roof, elevated deck and broad waterside steps. Source preview actually inspected.",
+      "recommendedUse": "Installed on the central park lake west shore, distinct from Ocean House; the lake and existing path are preserved.",
+      "status": "imported_into_server_world"
+    },
+    {
+      "id": "jpog-visitor-center-entrance",
+      "title": "JPOG Visitor Center Entrance JP",
+      "creator": "Planet Minecraft uploader (verify source page credit)",
+      "sourcePage": "https://www.planetminecraft.com/project/jpog-entrace-visitor-center-schematic/",
+      "sourceFiles": [{
+        "path": "jpog-visitor-center-entrance.schematic",
+        "format": "MCEdit Alpha numeric Blocks/Data",
+        "sha256": "6FB59E722C26CF962834BAE4A394D00A0E570A21D65F2EA6DF3B862FAA196642"
+      }],
+      "schematic": {
+        "width": 101,
+        "height": 36,
+        "length": 91,
+        "nonAirBlocks": 50290,
+        "legacyIdDataPairs": 107,
+        "candidateImportedBlocks": 16041,
+        "candidateMappedLegacyPairs": 76,
+        "candidateOperations": 6940,
+        "serverValidationInvalidStates": 0,
+        "entitiesInSource": 17,
+        "blockEntitiesInSource": 26,
+        "entitiesImported": 0,
+        "blockEntityNbtImported": 0,
+        "legacyConversionRequired": true,
+        "blockEntityPolicy": "Never import source entities or tile entity NBT; source includes hostile mobs and old door/sign data."
+      },
+      "visualAssessment": "Source is a large elliptical structure with a broad terrain base; inspected offline as schematic layers, not in game.",
+      "recommendedUse": "Trimmed architecture replaces the existing visitor center, with the south entrance path preserved and the old outer eaves cleared.",
+      "status": "imported_into_server_world"
+    },
+    {
+      "id": "mediterranean-home-mythicalsausage",
+      "title": "Mediterranean Style Home",
+      "creator": "TheMythicalSausage",
+      "sourcePage": "https://abfielder.com/Products/ProductDetails.php?id=2425",
+      "sourceFiles": [
+        {
+          "path": "mediterranean-home-mythicalsausage.schem",
+          "format": "Sponge schematic v2",
+          "sha256": "967A6628661283220F996A960DAFB4ADCE5B6DEAF97F5D411CE5C274BF5C8C2F"
+        }
+      ],
+      "preview": "mediterranean-home-preview.jpg",
+      "schematic": {
+        "width": 26,
+        "height": 22,
+        "length": 27,
+        "offset": [0, 0, 0],
+        "dataVersion": 3955,
+        "minecraftVersion": "1.21",
+        "paletteStates": 132,
+        "nonVanillaStates": 0,
+        "entities": 0,
+        "blockEntities": 0,
+        "containerLikeBlockStates": 19,
+        "containerPolicy": "Source has zero block entity NBT records. Nineteen container-like block states are imported without contents and remain empty.",
+        "unsafeBlockStates": 0
+      },
+      "visualAssessment": "Yellow walls, stepped red-tile roof, tower, vines and deep-set windows. Preview actually inspected.",
+      "recommendedUse": "Tropical city street house or visitor district building; reserve a 26x27 footprint and adapt the facade to the 1993 park setting.",
+      "status": "imported_into_server_world"
+    }
+  ],
+  "otherAttempts": [
+    {
+      "source": "https://www.minecraft-schematics.com/schematic/30375/",
+      "name": "Miami Mansion",
+      "note": "Preview inspected; direct download returned 403. Not counted as acquired."
+    }
+  ]
+}

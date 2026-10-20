@@ -1,0 +1,5 @@
+{
+  "type": "automobility:obj",
+  "material": "cutout",
+  "model_layer": "city_vehicles:automobile/frame/bus/main"
+}

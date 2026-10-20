@@ -1,0 +1,9 @@
+graphicsMode:1
+lang:zh_cn
+renderDistance:10
+simulationDistance:5
+entityDistanceScaling:1.0
+enableVsync:true
+renderClouds:"true"
+
+resourcePacks:[]

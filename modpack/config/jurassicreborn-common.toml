@@ -1,0 +1,26 @@
+# Jurassic Reborn 1.4.2 - 小蒙城市公园展示配置
+[general]
+allowCarcass = true
+naturalspawningaddon = false
+enableVehicleTilting = true
+attackOnlyWhenHungry = true
+lowContainmentHardness = 0.0
+mediumContainmentHardness = 0.0
+highContainmentHardness = 0.0
+entityBlacklist = []
+spawnCrabs = true
+spawnSharks = true
+spawnGoats = true
+[dinopedia]
+trackedDinosaurCarcassDespawnDisabled = false
+
+[worldgen]
+
+[worldgen.fossils]
+generateFossils = true
+globalFossilSpawnRate = 1.0
+fossilSpawnRateOverrides = []
+retroGenerateFossils = false
+replaceExistingFossilOres = false
+fossilRetroGenerationVersion = 1
+fossilRetroChunksPerTick = 1
